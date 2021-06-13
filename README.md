@@ -30,3 +30,8 @@
 1. [IT-рекрутмент](https://github.com/kozorukov/portfolio/tree/main/Портфолио/4%20курс/IT-рекрутмент)
 2. [Информационные технологии оценки персонала](https://github.com/kozorukov/portfolio/tree/main/Портфолио/4%20курс/Информационные%20технологии%20оценки%20персонала)
 3. [Организация электронной образовательной среды](https://github.com/kozorukov/portfolio/tree/main/Портфолио/4%20курс/Организация%20электронной%20образовательной%20среды)
+4. [Дипломная работа](https://github.com/kozorukov/portfolio/tree/main/Портфолио/4%20курс/ДИПЛОМНАЯ%20РАБОТА)
+
+### Личный проект
+[Сайт Runa-Light](runa-light.ru)
+
