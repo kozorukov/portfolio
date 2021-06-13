@@ -33,5 +33,5 @@
 4. [Дипломная работа](https://github.com/kozorukov/portfolio/tree/main/Портфолио/4%20курс/ДИПЛОМНАЯ%20РАБОТА)
 
 ### Личный проект
-[Сайт Runa-Light](runa-light.ru)
+[Сайт Runa-Light](https://runa-light.ru)
 
