@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Kosorukov Roman
 
-You can use the [editor on GitHub](https://github.com/kozorukov/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 1 курс
+1. [Информатика](https://github.com/kozorukov/portfolio/tree/main/Портфолио/1%20курс/Информатика)
+2. [ИТ в математике](https://github.com/kozorukov/portfolio/tree/main/Портфолио/1%20курс/ИТ%20в%20математике)
+3. [ИТ в физике курсовая работа](https://github.com/kozorukov/portfolio/tree/main/Портфолио/1%20курс/ИТ%20в%20физике%20курсовая%20работа)
+4. [Информационные Технологии](https://github.com/kozorukov/portfolio/tree/main/Портфолио/1%20курс/Информационные%20Технологии)
 
-```markdown
-Syntax highlighted code block
+### 2 курс
+1. [Анализ данных](https://github.com/kozorukov/portfolio/tree/main/Портфолио/2%20курс/Анализ%20данных)
+2. [Базы Данных](https://github.com/kozorukov/portfolio/tree/main/Портфолио/2%20курс/Базы%20Данных)
+3. [Вычислительная математика](https://github.com/kozorukov/portfolio/tree/main/Портфолио/2%20курс/Вычислительная%20математика)
+4. [ИТ в Оптимизации](https://github.com/kozorukov/portfolio/tree/main/Портфолио/2%20курс/ИТ%20в%20Оптимизации)
+5. [Курсовая. Технологии компьютерного моделирования](https://github.com/kozorukov/portfolio/tree/main/Портфолио/2%20курс/Курсовая.%20Технологии%20компьютерного%20моделирования)
+6. [Основы компьютерной алгебры](https://github.com/kozorukov/portfolio/tree/main/Портфолио/2%20курс/Основы%20компьютерной%20алгебры)
+7. [Технологии компьютерного моделирования ](https://github.com/kozorukov/portfolio/tree/main/Портфолио/2%20курс/Технологии%20компьютерного%20моделирования%20)
 
-# Header 1
-## Header 2
-### Header 3
+### 3 курс
+1. [Защита информации](https://github.com/kozorukov/portfolio/tree/main/Портфолио/3%20курс/Защита%20информации)
+2. [Интегрированные издательские системы и технологии](https://github.com/kozorukov/portfolio/tree/main/Портфолио/3%20курс/Интегрированные%20издательские%20системы%20и%20технологии)
+3. [Курсовая Управление программными проектами](https://github.com/kozorukov/portfolio/tree/main/Портфолио/3%20курс/Курсовая%20Управление%20программными%20проектами)
+4. [Сети и телекоммуникации](https://github.com/kozorukov/portfolio/tree/main/Портфолио/3%20курс/Сети%20и%20телекоммуникации%20)
+5. [Техника и технологии представления и публикации информации](https://github.com/kozorukov/portfolio/tree/main/Портфолио/3%20курс/Техника%20и%20технологии%20представления%20и%20публикации%20информации)
+6. [Электротехника](https://github.com/kozorukov/portfolio/tree/main/Портфолио/3%20курс/Электротехника)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kozorukov/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 4 курс
+1. [IT-рекрутмент](https://github.com/kozorukov/portfolio/tree/main/Портфолио/4%20курс/IT-рекрутмент)
+2. [Информационные технологии оценки персонала](https://github.com/kozorukov/portfolio/tree/main/Портфолио/4%20курс/Информационные%20технологии%20оценки%20персонала)
+3. [Организация электронной образовательной среды](https://github.com/kozorukov/portfolio/tree/main/Портфолио/4%20курс/Организация%20электронной%20образовательной%20среды)
