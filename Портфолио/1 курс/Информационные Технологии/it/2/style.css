@@ -1,0 +1,36 @@
+p {
+	color: blue;
+	font-weight: bold;
+	text-align: center;
+}	
+ul {
+	color: rgb(0, 128, 0);
+	font-size: 25px;
+}
+h1 {
+	color: #FF9218;
+}
+a:visited {
+	color: red;
+}
+a:hover {
+	color: pink;
+	text-decoration: underline;
+}
+a:active {
+	color: orange;
+}
+ol {
+	font-style: italic;
+}
+a {
+	text-decoration: none;
+}
+
+body {
+	width:100%;
+	background-image: url(Картинки/background.png);
+	background-attachment:fixed;
+	background-repeat:repeat-y;
+	
+}

@@ -1,0 +1,250 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 17.05.0 ] */
+/* [wxMaxima: title   start ]
+Решение уравнений
+   [wxMaxima: title   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([(x+3)*(2*x-1)=0],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([(0,1*x-0,2)*(5*x+2)=0],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([(x-2)^2-9=0],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([(3*x+1)^2-5=0],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([x^2+6*x+8=0],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([x^2-10*x+9=0],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+eq:x^2-3*x=1.75;
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+allroots(eq);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([x^2+x=2],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([x^2+p*x+p^2/4=m],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([x^2+p*x+q=0],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([x^2-2*x-8=0],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([x^2-2/7*x-47=0],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+eq:x^2-0.1*6*x-8.5=0;
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+eq:5*x^2-6*x+1.75=0;
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+allroots(eq);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([sqrt(2)*x^2-10*x+8*sqrt(2)=0],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([(x-1)*(x-2)-(x-2)*(x-3)=2*(x-2)*(x-4)],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([(x^2-1)/x+(2*x+1)/x=3],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([x^2/(x-2)-(x+2)/(x-2)=4],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([1+2/(x-1)-6/(x^2-1)=3/(x+1)],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([(x+1)/(2*x-2)=x/(x-1)+(7-2*x)/(2*x+2)],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([(x+2)/(x-2)+x*(x-4)/(x^2-4)=(x-2)/(x+2)-4*(1+x)/(4-x^3)],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([6/(x-1)+6/((x-1)*(x-3))+3/(3-x)=7],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([(x+1)/(x-2)-(x+1)/(x-1)=4/((x-1)*(x-2))-(x-1)/(x-2)],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([6/(4*x^2-1)+3/(2*x+1)=2/(2*x-1)+1],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([x^2-2*a*x+a^2-b^2=0],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([x^2-2*(a+b)*x+4*a*b=0],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([x^2-3*a*x+2*a^2=0],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([x^2-a*x-2*a^2=0],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([a*x^2-(a+1)*x+1=0],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([a*b*x^2-(a^2+b^2)*x+a*b=0],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([a*b*x^2-(a^2-b^2)*x+(a-b)^2=0],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([x^2+1=a*(x^2-1)-2*x],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([x*(x+3)+a*(a-3)=2*(a*x-1)],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([(x-a)^2+(x-b)^2=(a-b)^2],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([(x-a)^2+(1-a*x)^2-2*x=2*a*(a-2)*x],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([(1+a*x)*x=(1-x)*a^2+a+1],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([x+1/a=a+1/x],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([x-1/m=m-1/x],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([x+b*x/(x-2*a)=2*a*b/(x-2*a)],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([b/(x-a)+a/(x-b)=2],[x]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+eq1:0*x1+4*x2-x3+3*x4=1; eq2:x1+0*x2+0*x3+2*x4=1; eq3:x1+4*x2-x3+0*x4=-3; eq4:0*x1+0*x2-x3+2*x4=0;
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+solve([eq1,eq2,eq3,eq4],[x1,x2,x3,x4]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+algsys([(x+0.2)^2+(y+0.3)^2=1, x+y=0.9], [x,y]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+algsys([x^3+y^3=7, x^3*y^3=-8],[x,y]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+algsys([y^2-x*y=-12, x^2-x*y=28],[x,y]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+algsys([u^2+u*v=15, v^2+u*v=10],[u,v]);
+/* [wxMaxima: input   end   ] */
+
+
+
+/* Maxima can't load/batch files which end with a comment! */
+"Created with wxMaxima"$
